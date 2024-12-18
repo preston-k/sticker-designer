@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Poppins', sans-serif !important;
+}
+
+.dotbg {
+  background-color: #ffffff;
+  background-image: radial-gradient(#00000030 1.5px, #ffffff30 1.5px);
+  background-size: 40px 40px;
+}
